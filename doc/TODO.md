@@ -1,0 +1,4 @@
+- [ ] Build script
+- [ ] Get status of `.cache/RATT`, `.config/RATT.yaml`, and `RATT-tasklist.yaml`; create them if necessary
+- [ ] `Task` class
+- [ ] `addTask()` function

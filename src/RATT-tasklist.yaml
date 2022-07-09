@@ -1,0 +1,21 @@
+# Example tasklist
+"Water the dog":
+  due: 20220701
+  created: 20220629213020
+  tags:
+    - Habit
+    - Hiro # Dog's name
+"Pet the plants":
+  due: 20220629
+  created: 20220629213023
+  tags:
+    - Habit
+"Arch+AwesomeWM Rice":
+  due:
+  created: 20220629213027
+  "Work on rofi theme":
+    due:
+    created: 202262913033
+  "Create .svg background":
+    due:
+    created: 202262913037
